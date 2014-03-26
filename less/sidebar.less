@@ -1,0 +1,67 @@
+aside {
+    .make-md-column(3);
+
+    padding-top: 10px;
+
+    h1 {
+        font-size: @font-size-h4;
+    }
+
+    section {
+        padding-left: 2.14em;
+    }
+
+
+    ul {
+        &:extend(.fa-ul all);
+        margin-left: 0;
+    }
+
+    i {
+        &:extend(.fa all);
+    }
+
+    .phone i {
+        margin-left: 3px;
+        margin-right: 2px;
+        &:extend(.fa-mobile all, .fa-lg all);
+    }
+
+    .mail i {
+        &:extend(.fa-envelope all);
+    }
+
+    .pgp i {
+        &:extend(.fa-key all);
+    }
+
+    .github i {
+        &:extend(.fa-github-alt all);
+    }
+
+    .gplus i {
+        &:extend(.fa-google-plus-square all);
+    }
+
+    .xing i {
+        &:extend(.fa-xing-square all);
+    }
+
+    .linkedin i {
+        &:extend(.fa-linkedin-square all);
+    }
+
+    .skills {
+        i.star {
+            &:extend(.fa-star all);
+        }
+
+        i.star-half {
+            &:extend(.fa-star-half-full all);
+        }
+
+        i.star-empty {
+            &:extend(.fa-star-o all);
+        }
+    }
+}
