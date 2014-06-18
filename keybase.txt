@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/timon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zaeda.net
+  * I am timon (https://keybase.io/timon) on keybase.
+  * I have a public key with fingerprint 2E05 6444 BDAB 4136 CDF2  8302 AB92 AC32 C536 0BD7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.7"
+        },
+        "key": {
+            "fingerprint": "2e056444bdab4136cdf28302ab92ac32c5360bd7",
+            "host": "keybase.io",
+            "key_id": "AB92AC32C5360BD7",
+            "uid": "9c02ecd3a29d892f3673fcb19a655800",
+            "username": "timon"
+        },
+        "merkle_root": {
+            "ctime": 1403083247,
+            "hash": "2c1f404a1441fb80ac51a53965717175b30cc47be65e88612f6fc70b51623e79d578a81a079c143b4c6fa4c24733ad517adbe0b1a781db603283514ae9e35f4a",
+            "seqno": 20178
+        },
+        "service": {
+            "hostname": "zaeda.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403083342,
+    "expire_in": 157680000,
+    "prev": "4556af8eed1dc435e6816218eeea1a6f24908fec30bf4163bdd008d38319051e",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.19 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owFVUmtQVVUUvhgPRRgchV4DiGcERHnsffZ5UkzyikARgaCGKNznnH3gyOVevPdy
+ec0dR5BMxEZNJpmkUhyQAJM0QdLQRiwmGyRKvGppQ1AU0/TWoTE6h6EpZ//Ze61v
+f+v71lr7/B8y+Xp0Heimh7il4x6fTkum3CMFm2opyapUU/G1lGzWiMVh3Cy4jFDx
+VCmplrCdxGrWMItVIbFb7WELmGjKSWx2zWrRUSCWieUpV7QBNz6rmqWY2MptmsFF
+0QSwHMMwkoIlBiJOVlRaQIDGkkhjGdEyizggKbxOWWK1Ox6oSs1zFmmKHk1MEunE
+ZEQnG/ikFANfMZ8QZUATWUGYFhVBpFXE8UiVJShijmUFAAygndgWLDm0Ml20LraM
+2ErNpMhmtc47lvWEnocMQEBANMPrcrC9xDAgQ5UBDIYMA1VJAFhmIWaRyLE81A8r
+ISDLDC8RjiWCwEFa5VSZBxILORoRXlRYXsACxIAXZcggiZE5FTOyXgIhrLCQx4pE
+gAQxL0BF4gDS28NCBhORIFZlsK7fTrZZrFQ8DSAvuIynzanJxJBttGzBWQ0mCo61
+EGM45TarwypbzXq4xOEojzcMO6rLDVglkYoWCNqLJM2i6NP6/zihDn2wGYihoylS
+Va7ZSJFmIFie0/sKgFGHOHVOhmU5rAqEKFCRGcQSTtDNQz1AMMScSjMiEFQiIyCp
+DOSQpCgACAoSEBQBC8l/FpGuExfrlHat2IIdFTZCuXYvCvY0efiavL0WGftq8l2y
+7N8lvvBlwN/r8jNnur572O3Itw93rD/acGx9fmndnmeyDo/82FCX0un3lSuu3Z0d
+2RzTJzyV8W6o995LHxR+srov8r3F2s6QnrP1492PVAYcF6aOzp79XRyuKgv6xkUK
+b0Xj61kfe7Vl3J/47YnLtfxpv9yanYd2lB3zn2TeeXTFiZb8117c2DPzZkFN4+jN
+52P2Tcd8X+9ofnbu3ksXzwUWpEmBedUHnjxdERJieyt5/8D1KznplRC8T63tn/3F
+7Raylfb06rwxV1t4zcrH3EpKalB+TonZOz5xq9ecO6WXRPhF/+nVcS2ZHyw5xdFK
+/YdLO+r6xi5MuZadauDIyrroiZwlY5ln6io6fwhzNtadbwlOGHmh2N72bedh10Cw
+uTcoL9eZOxpS33wnydybMVizPGY5V4HDna0bNu26Efpr5O3PArvkhKTHUVxif2uT
+35mfpnOOJ6/+Yk1wRbZViLiibshxhz09OfOq4+W/Dubeuupzctv4jaoVASeuFSaM
+/Hwy/Y0tGdNos+8r/uF3PgpNaPpj872g/iOr9py/fdf19fYmZHuuYd2ayrns0YKe
+qVUzO3hTKzPp4ePtGcWlvX2IHU5NvTwXmZFWNft6dnNjdYzT83Mfdnxtbebec1GX
+tJtVppmh8i1x8Th4tHvwfgOX4Tw4IV1dDPab07ynNL+BXUKQWLZ9d9rdiKGWjRdN
+WalR/wA=
+=cVy8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/timon
+
+==================================================================
